@@ -1,0 +1,19 @@
+.reodering-rect {
+    background-color: #007fff;
+    border-radius: 5px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.reodering-rect-focus {
+    background-color: #003366;
+    border-radius: 5px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}

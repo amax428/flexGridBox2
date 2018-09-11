@@ -1,0 +1,32 @@
+.normal-rect {
+    background-color: #007fff;
+    border-radius: 5px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nest-rect-big {
+    background-color: #003366;
+    border-radius: 5px;
+    padding: 10px 0px;
+}
+
+.nest-rect-normal {
+    background-color: #0066cc;
+    border-radius: 5px;
+    padding: 10px 0px;
+}
+
+.row .row {
+    margin: 0px;
+}
+
+.row .row .row {
+    margin: 0px;
+}
+
+.divider {
+    height: 20px;
+}
